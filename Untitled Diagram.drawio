@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T08:12:23.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="dtiAwv1o8He9RbwoyFWq" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T08:15:59.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="v3U52GaUsoUbUFPwMCe9" version="14.8.1" type="github">
   <diagram id="b1v0rlvgwMFWRnTb7KpD" name="Page-1">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,8 +51,8 @@
         <mxCell id="MEOmbgYRBJoREZ-vEdDK-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Mailbox@knauf.com&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="655" y="573" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MEOmbgYRBJoREZ-vEdDK-13" value="Knauf On-Premise Exchange" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="340" y="550" width="170" height="20" as="geometry" />
+        <mxCell id="MEOmbgYRBJoREZ-vEdDK-13" value="Knauf&amp;nbsp; Exchange" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="370" y="550" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MEOmbgYRBJoREZ-vEdDK-14" value="&lt;b&gt;Fortimail address re-write&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="40" y="506" width="160" height="20" as="geometry" />
@@ -83,6 +83,24 @@
         </mxCell>
         <mxCell id="MEOmbgYRBJoREZ-vEdDK-24" value="&lt;b style=&quot;font-size: 15px&quot;&gt;USG Boral &lt;br&gt;O365&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="655" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MEOmbgYRBJoREZ-vEdDK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MEOmbgYRBJoREZ-vEdDK-25" target="MEOmbgYRBJoREZ-vEdDK-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MEOmbgYRBJoREZ-vEdDK-25" value="Redirection to &lt;br&gt;@Knauf.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="655" y="170" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEOmbgYRBJoREZ-vEdDK-27" value="" style="curved=1;endArrow=classic;html=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="240" as="sourcePoint" />
+            <mxPoint x="640" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="310" />
+              <mxPoint x="340" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
